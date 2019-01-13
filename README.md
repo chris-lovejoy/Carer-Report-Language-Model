@@ -7,9 +7,9 @@ It is based on IBM's Deep Learning Language Model (https://github.com/IBM/deep-l
 
 
 ## Sample output:
-"et, from the kitchen, filled it with water and left close to the bedroom. on this visit mrs X didn't open the bowels, two care workers using hoist assisted mrs X with transfer from commode to the bed, dressed pad and assisted with transfer to the w"
+"...et, from the kitchen, filled it with water and left close to the bedroom. on this visit mrs X didn't open the bowels, two care workers using hoist assisted mrs X with transfer from commode to the bed, dressed pad and assisted with transfer to the w..."
 
-This sample highlights some of the common discussion points:
+This sample highlights some of the common discussion points, which were consistent with other samples:
 - bowels
 - mobility
 - dressing
